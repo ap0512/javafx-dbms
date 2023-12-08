@@ -1,0 +1,24 @@
+.img_left{
+    -fx-background-image:url("tri.jpg")
+}
+.test{
+    -fx-background-color:white
+}
+.form{
+    -fx-background-radius:50px
+    -fx-border-radius:50px
+    }
+.gradient{
+    -fx-background-color:linear-gradient( to right bottom, #8a92fb,#f4d2f9);
+}
+
+.vanish{
+    -fx-background-color: -fx-control-inner-background;
+}
+
+.table{
+    -fx-background-radius:10px;
+    -fx-background-color:white;
+    -fx-border-radius:10px;
+
+}
